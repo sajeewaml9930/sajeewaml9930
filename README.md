@@ -2,7 +2,6 @@
 <hr>
 
 <p>
-<li>🌱 I'm 3rd year undergraduate in Software Engineering BEng Honours in University of Westminster affiliated with Informatics Institute of Technology.</li>
-<li>✨ I’ve always been a great problem solver, an independent introvert, and a technophile obsessed with the latest devices. Looking for opportunities to apply my technical knowledge to build things to solve the problems facing the world today</li>
+I am a tech enthusiast with a strong passion for mastering software development and machine learning engineering. I hold a B.Sc. (Hons) in Software Engineering from the University of Westminster, London, affiliated with the Informatics Institute of Technology, Sri Lanka. With practical experience spanning roles such as IT Project Manager, Associate Software Engineer, and Software Engineer Intern at AleneSoft Pvt Ltd, I am driven to leverage my expertise to deliver impactful solutions, contribute to organizational growth, and continue advancing my skills in innovative technologies.
 <li>📬 Reach me out on <a href="https://www.linkedin.com/in/sajeewa-logus-025885176/">Linkedin</i></a> </li>
 </p> 
