@@ -1,120 +1,188 @@
 <h1 align="center">Hi there, I'm Sajeewa Logus 👋</h1>
-<h3 align="center">Associate Software Engineer | BEng (Hons) Software Engineering Graduate | Building Scalable Solutions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sajeewaml/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sajeewaml@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a> <!-- You can add your portfolio link later -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Flask;Building+Scalable+Software+Solutions;Machine+Learning+Enthusiast" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajeewaml/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sajeewaml@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sajeewaml9930">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajeewaml9930&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Passionate and enthusiastic Software Engineer eager to learn emerging technologies and tackle challenging environments. I specialize in building robust backend systems and crafting clean, performant frontend interfaces. I'm currently seeking opportunities to contribute to innovative and impactful projects.
+💡 Passionate Software Engineer focused on building **scalable backend systems and modern frontend applications**.
 
-- 🔭 I’m currently working as an **Associate Software Engineer at AleneSoft Pvt Ltd**, building scalable backend solutions.
-- 🌱 I’m leveling up my skills in **Next.js, TypeScript, and Cloud Architecture (AWS)**.
-- 👨‍🎓 I recently graduated from the **University of Westminster** with a B.Eng. (Hons) in Software Engineering.
-- 🚀 My final year project, **AgroMate**, focused on optimizing the agriculture supply chain in Sri Lanka using Machine Learning.
-- ⚡ Fun fact: I love solving puzzles, which is probably why I enjoy debugging code so much!
-- 📫 How to reach me: **+94 71 012 6066** | **sajeewaml@gmail.com**
+- 🔭 Associate Software Engineer at **AleneSoft Pvt Ltd**
+- 🎓 **BEng (Hons) Software Engineering** – University of Westminster
+- 🌾 Creator of **AgroMate – ML-based Agriculture Supply Chain System**
+- 🚀 Building **ERP, LMS, and AI-powered applications**
+- 🌱 Currently learning **Cloud Architecture & Advanced System Design**
 
----
-
-### 🛠️ Tech Stack & Expertise
-
-Here are the technologies and tools I work with:
-
-**Frontend Development**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend Development**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools & Platforms**
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+📍 Kandana, Sri Lanka  
+📧 sajeewaml@gmail.com  
+📞 +94 71 012 6066  
 
 ---
 
-### 💼 Experience
+# 🛠 Tech Stack
 
-**Associate Software Engineer** @ *AleneSoft Pvt Ltd, Colombo*
-`Oct 2023 - Present`
-- Built scalable backend solutions using **Flask**, designing secure RESTful APIs and managing database integrations for production-ready applications.
-- Collaborated with teams on backend systems using **Spring Boot** and MVC architecture, improving performance, deployment, and overall user experience.
+### 🚀 Frontend
 
-**Software Engineer Intern** @ *AleneSoft Pvt Ltd, Colombo*
-`Sep 2022 – Sep 2023`
-- Developed a **Point of Sale (POS) System** extension for AlenePro ERP using **Next.js**, featuring inventory tracking, quick billing, and real-time data handling.
-- Built a cross-platform **Learning Management System (LMS)** app called AleneCoach using **React Native** and **Firebase**, implementing QR-based attendance and real-time notifications.
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,tailwind,flutter" />
+</p>
 
----
+### ⚙ Backend
 
-### 🚀 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,java,spring" />
+</p>
 
-Here are some of my key projects:
+### 🗄 Databases
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sajeewaml9930&repo=AgroMate&theme=tokyonight&show_owner=true)](https://github.com/sajeewaml9930/AgroMate) <!-- Replace with your actual repo link -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sajeewaml9930&repo=TRUEWS&theme=tokyonight&show_owner=true)](https://github.com/sajeewaml9930/TRUEWS) <!-- Replace with your actual repo link -->
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
+</p>
 
-- **AgroMate - Agriculture Supply Chain Optimization**: Final-year project using **Flutter**, **Flask**, and **SQLite** with machine learning to optimize agricultural logistics in Sri Lanka.
-- **TRUEWS - Fake News Detection**: Implemented a Sinhala-language fake news detection model using **BERT** and **Python**, deployed on **AWS** and **Heroku** for real-time text classification.
-- **AleneCoach LMS App**: A cross-platform LMS built with **React Native** and **Firebase** for learners and instructors.
-- **POS System for AlenePro ERP**: A frontend solution built with **Next.js** extending ERP capabilities.
+### ☁ Tools & Platforms
 
----
-
-### 📜 Education & Certifications
-
-- **B.Eng. (Hons) Software Engineering** (with Industrial Placement)
-  University of Westminster (Affiliated with IIT, Sri Lanka) | *2021 – 2024*
-  *Thesis:* AgroMate - Optimizing Agriculture Supply Chain in Sri Lanka Using ML.
-
-- **G.C.E Advanced Level** - Physical Science stream
-  De Mazenod College, Kandana | *2020*
-
-- **Certifications:**
-  - AWS Certified Solutions Architect – Associate *(In Progress)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajeewaml9930&show_icons=true&theme=tokyonight&hide_border=true" alt="Sajeewa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajeewaml9930&theme=tokyonight&hide_border=true" alt="Sajeewa's GitHub Streak" width="48%" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,figma" />
 </p>
 
 ---
 
-### 🤝 Let's Connect!
+# 💼 Experience
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+### Associate Software Engineer  
+**AleneSoft Pvt Ltd** | Oct 2023 – Present
 
-- 📧 Email: **sajeewaml@gmail.com**
-- 📞 Phone: **+94 71 012 6066**
-- 📍 Location: **Kandana, Sri Lanka**
-- 💼 LinkedIn: **[sajeewaml](https://www.linkedin.com/in/sajeewaml/)**
+- Built scalable backend systems using **Flask**
+- Developed secure **RESTful APIs**
+- Managed database integrations and performance optimization
+- Collaborated on backend systems using **Spring Boot MVC**
+
+---
+
+### Software Engineer Intern  
+**AleneSoft Pvt Ltd** | Sep 2022 – Sep 2023
+
+- Developed **Next.js POS system** extending AlenePro ERP
+- Built **AleneCoach LMS mobile app** using React Native
+- Implemented **QR attendance & real-time notifications**
+
+---
+
+# 🚀 Featured Projects
+
+### 🌾 AgroMate
+ML-based agriculture supply chain optimization platform.
+
+Tech:
+Flutter • Flask • SQLite • Machine Learning
+
+---
+
+### 📰 TRUEWS – Fake News Detection
+
+Sinhala fake news detection using **BERT & Python**
+
+Deployment:
+AWS • Heroku
+
+---
+
+### 📚 AleneCoach LMS
+
+Cross-platform LMS with:
+
+- QR Attendance
+- Notifications
+- Personalized dashboards
+
+Tech:
+React Native • Firebase
+
+---
+
+### 🧾 POS System (AlenePro ERP)
+
+Next.js POS system with:
+
+- Real-time billing
+- inventory management
+- customer insights
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <i>"Passionate about code, driven by impact."</i>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sajeewaml9930&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sajeewaml9930&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajeewaml9930&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sajeewaml9930&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🎓 Education
+
+**B.Eng (Hons) Software Engineering**  
+University of Westminster (IIT Sri Lanka)  
+2021 – 2024
+
+Final Year Research:
+
+**AgroMate – Optimizing Agriculture Supply Chain in Sri Lanka Using Machine Learning**
+
+---
+
+# 📜 Certifications
+
+AWS Certified Solutions Architect – Associate *(In Progress)*
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+<a href="mailto:sajeewaml@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/sajeewaml/">LinkedIn</a> •
+<a href="https://github.com/sajeewaml9930">GitHub</a>
+</p>
+
+<p align="center">
+⭐ *"Passionate about technology. Driven to build impactful solutions."*
 </p>
