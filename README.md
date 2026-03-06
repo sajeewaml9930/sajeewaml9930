@@ -25,7 +25,7 @@
   <table>
     <tr>
       <td>📍 <b>Location</b></td>
-      <td>Kandana, Sri Lanka</td>
+      <td>Sri Lanka</td>
       <td>🎓 <b>Education</b></td>
       <td>B.Eng (Hons) Software Engineering</td>
     </tr>
@@ -33,7 +33,7 @@
       <td>💼 <b>Current Role</b></td>
       <td>Software Engineer @ AleneSoft</td>
       <td>⏳ <b>Experience</b></td>
-      <td>3+ Years (Full-time + Freelance)</td>
+      <td>4+ Years (Full-time + Freelance)</td>
     </tr>
 
   </table>
